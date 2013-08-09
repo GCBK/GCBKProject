@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GCBKProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_string">Edit meh!</string>
+    <string name="button_string">OK</string>
+    <string name="welcome">Greetings! Welcome to BudgetNut\'s Budget Forecasting Ap for Android!</string>
+    <string name="pay_or_not">Would you like to Purchase the ad free version for $X.99 USD?</string>
+    <string name="income">Please input your income.</string>
+
+    <string-array name="income_array">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>BiMonthly</item>
+        <item>Monthly</item>
+        <item>BiAnually</item>
+        
+        
+        
+    </string-array>
+        <string name="default_income">0000</string>
+        <string name="income_question">How much do you make?</string>
+        <string name="screen_three_title">When is your next paycheck?</string>
+        <string name="how_much_string">How much do you have now?</string>
+        <string name="balance_string">What is your current balance?</string>
+        <string name="accept_string">ACCEPT</string>
+        <string name="cancel_string">CANCEL</string>
+        <string name="zeros_string">00.00</string>
+        <string name="transaction_button_label">Add/Edit \nTransactions</string>
+        <string name="forcast_button_label">Modify Forcast \nValues</string>
+        <string name="graph_button_label">Graph</string>
+        <string name="settings_button_label">Other Settings</string>
+        <string name="how_often_">How often?</string>
+        <string name="add_a_transaction_">Add a transaction.</string>
+
+</resources>
